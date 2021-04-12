@@ -9,7 +9,7 @@ Cases in Colombia https://www.datos.gov.co/resource/gt2j-8ykr.json, https://api.
 Vaccines in Colombia https://www.datos.gov.co/resource/sdvb-4x4j.json
 
 
-You can also copy the (document)[https://docs.google.com/spreadsheets/d/1QmFRCuoxrB59-I3N7c-JMt28WWcALhCk8xEXWl_u_5s/edit?usp=sharing] where I am storing most of the data that was gathered for the analysis (expect for the daily cases in Colombia, which is a large file). It will come with a custom script that will pull the data and refresh it, but you need to set up the trigger yourself for it to work. More details (here)[https://www.youtube.com/watch?v=Tvg3bDXUo8A]
+You can also copy the [document][https://docs.google.com/spreadsheets/d/1QmFRCuoxrB59-I3N7c-JMt28WWcALhCk8xEXWl_u_5s/edit?usp=sharing] where I am storing most of the data that was gathered for the analysis (expect for the daily cases in Colombia, which is a large file). It will come with a custom script that will pull the data and refresh it, but you need to set up the trigger yourself for it to work. More details [here][https://www.youtube.com/watch?v=Tvg3bDXUo8A]
 
 
 
